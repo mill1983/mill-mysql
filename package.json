@@ -1,0 +1,27 @@
+{
+  "name": "mill-mysql",
+  "version": "1.0.0",
+  "description": "mysql 模块的使用封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mill1983/mill-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "mill"
+  ],
+  "author": "mill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mill1983/mill-mysql/issues"
+  },
+  "homepage": "https://github.com/mill1983/mill-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
